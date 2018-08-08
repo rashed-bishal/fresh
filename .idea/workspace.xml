@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="829ce011-44d6-438a-925c-4c1ce6d3618b" name="Default" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/MyController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="311c7b59-b91b-464e-990e-4537b0308a6e" name="new" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MyController.php" afterDir="false" />
     </list>
+    <list id="829ce011-44d6-438a-925c-4c1ce6d3618b" name="Default" comment="" />
     <list id="19c12d8e-a25b-43bd-914f-9e3eb1274ecb" name="New changelist" comment="MY First Change" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,12 +17,12 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="MyController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MyController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="156">
+              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -192,33 +192,51 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
       <changelist id="829ce011-44d6-438a-925c-4c1ce6d3618b" name="Default" comment="" />
       <changelist id="19c12d8e-a25b-43bd-914f-9e3eb1274ecb" name="New changelist" comment="" />
       <created>1531676947870</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531676947870</updated>
+      <updated>1533715414810</updated>
       <workItem from="1531676949193" duration="463000" />
-      <workItem from="1533714981944" duration="395000" />
+      <workItem from="1533714981944" duration="429000" />
     </task>
+    <task active="true" id="LOCAL-00001" summary="new">
+      <changelist id="311c7b59-b91b-464e-990e-4537b0308a6e" name="new" comment="" />
+      <created>1533715401843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533715414821</updated>
+      <workItem from="1533715415654" duration="685000" />
+    </task>
+    <task id="LOCAL-00002" summary="FirstCommit">
+      <created>1533715415604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533715415604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="858000" />
+    <option name="totallyTimeSpent" value="1577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Messages" weight="0.3294509" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3294509" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3294509" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294509" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,6 +286,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FirstCommit" />
     <option name="LAST_COMMIT_MESSAGE" value="FirstCommit" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -301,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MyController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="156">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
